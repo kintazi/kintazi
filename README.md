@@ -54,13 +54,6 @@ Into information security & **CTF**, and **robotics** too.
 
 <br>
 
-<h3 align="center">📊 GitHub</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kintazi&show_icons=true&hide_border=true&count_private=true&bg_color=1A1B27&title_color=BB9AF7&text_color=A9B1D6&icon_color=7AA2F7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kintazi&layout=compact&hide_border=true&bg_color=1A1B27&title_color=BB9AF7&text_color=A9B1D6" />
-</p>
-
 <br>
 
 <p align="center">
